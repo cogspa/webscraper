@@ -1,0 +1,55 @@
+CONOCIMIENTO
+DE UNSUPERIOR.
+NIVEL SUPERIOR.
+CONOCIMIENTO
+DE UN NIVEL
+
+Aplicación: Ford Expedition 2005-2006
+(con un alternador controlado por computadora)
+
+Síntoma:
+Luz de falta de carga/advertencia de carga encendida
+Causa:
+Conector del regulador averiado en el alternador
+Conector de arnés del alternador
+de 2005-2006
+
+Alternador de Ford Expedition
+de 2005-2006
+
+La solución:
+Reemplace o repare el conector del regulador del
+alternador
+
+PCM de Ford Expedition 2005
+
+Al lidiar con problemas eléctricos, asegúrese de realizar un
+diagnóstico adecuado para averiguar la causa subyacente.
+Cuando se encuentre con un problema de falta de carga
+en un Ford Expedition de los años 2005-2006, el problema puede
+deberse al conector del regulador del alternador. El alternador envía
+una señal a través del arnés de cableado al PCM para que el PCM
+pueda determinar la carga eléctrica del vehículo a fin de mantener el
+voltaje adecuado. El PCM también utiliza esta señal para determinar
+la carga que impone el sistema de carga sobre el motor. Si hay un
+problema con el arnés de cableado, la señal del alternador no puede
+alcanzar el PCM y puede generar un problema de falta de carga.
+El PCM controla el regulador del alternador a través del
+cable/terminal del conector del regulador. El PCM envía una señal
+de comando al regulador, indicando el voltaje deseado necesario.
+
+Para probar este sistema, primero, desconecte el conector
+de tres terminales. Use un diagrama de cableado para identificar los
+circuitos AS =SENSE, RC =GEN-COM y LI = GEN-MON. Con la llave en
+encendido, el motor apagado y el conector del alternador desconectado,
+el cable SENSE debe tener el voltaje de la batería en el conector.
+A continuación, el cable GEN-COM debe tener cero voltios y el cable GENMON debería tener aproximadamente de 9 a 12 voltios en el conector.
+
+SOPORTE TÉCNICO
+
+800-228-9672
+Los técnicos certificados ASE están disponibles 7 días a la semana.
+
+motorcarparts.com
+
+

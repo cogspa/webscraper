@@ -1,0 +1,59 @@
+Application: Many Ford Vehicles
+(This issue spans a large number of vehicle models and years.)
+
+Mounting Surface Corrosion
+
+Symptoms:
+Starter failure caused by a contaminated or corroded starter
+mounting surface.
+Causes:
+• Corrosion
+• Oil
+• Dirt and Debris
+• Paint Build-Up
+The Solution:
+Remove the starter and clean the starter mounting surfaces.
+Replace the starter if necessary.
+
+Burnt Armature
+
+Avoid starter failure by maintaining clean, corrosion-free mounting surfaces for proper performance.
+Many Ford vehicles are known for high corrosion and oil contamination at the
+starter mounting surfaces. All of the corrosion and oil seen on the starter’s
+mounting surface will also be found on the engine’s starter mounting surface,
+causing a poor or faulty starter ground, leading to excessive voltage drop in
+the starter circuit.
+
+Resistance in the starter circuit is often caused by old battery cables or poor
+connections at the battery, starter, or engine block (grounds). The bottom line
+is if the starter motor can’t turn the engine fast enough, it has to endure the
+loading and unloading of each compression stroke. Resistance will damage
+the starter, causing it to fail.
+
+Low voltage will damage the starter’s internal components such as the
+brushes and the armature, shortening their life and making it hard to start
+the vehicle. Because most starters are grounded through the engine block,
+if there is excessive oil contamination, corrosion, or paint build up on the
+starter mounting surface, the starter will have a faulty ground connection.
+This faulty ground connection will create excessive voltage drop causing
+the starter to overheat and fail prematurely. Make sure to clean the starter
+mounting surface anytime the starter is removed from the vehicle. Proper
+cleaning and maintenance are crucial before installing a replacement starter.
+
+You can avoid these conditions by maintaining a clean and corrosion-free
+starter mounting surface. Many of these Ford vehicles are subject to off-road
+and rigorous conditions, leading to dirt, salt, oil, and corrosion. Keeping the
+engine starter mounting surface clean and free of corrosion is crucial to
+having a secure ground connection. A secure ground connection will help your
+starter last a lot longer, saving you money and making sure you don’t have to
+keep replacing starters.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+For this and other Part Smart tech articles, Click Here.
+
+

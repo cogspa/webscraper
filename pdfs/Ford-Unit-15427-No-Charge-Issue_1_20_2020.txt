@@ -1,0 +1,45 @@
+		Application: 2005 - 2006 Ford Expedition
+			
+(with a computer-controlled alternator)
+
+Symptom:
+No Charge/Charge Warning Light Illuminated
+Cause:
+Bad Regulator Connector at the alternator
+
+2005-06 Ford Expedition Alternator
+2005-06 Alternator Harness Connector
+
+The Solution:
+Replace or repair the alternator Regulator Connector
+
+2005 Ford Expedition PCM
+
+When dealing with electrical issues, make sure you perform a
+proper diagnosis to locate the underlying cause.
+When you run into a no charge issue on an 05-06 Ford
+Expedition, the problem may be with the alternator’s regulator
+connector. The alternator sends a signal through the wiring harness
+to the PCM so the PCM can determine the vehicle’s electrical load
+to maintain the proper voltage set point. The PCM also uses this
+signal to determine the load placed on the engine by the charging
+system. If there is an issue with the wiring harness, the alternator’s
+signal cannot reach the PCM and could cause a no charge issue.
+The PCM controls the alternator regulator through the
+Regulator Connector terminal/wire. The PCM sends a command signal
+to the regulator, indicating the desired voltage setpoint needed.
+
+To test this system, first, disconnect the three-terminal
+connector. Use a wiring schematic to identify the AS =SENSE, RC =GENCOM, and LI = GEN-MON circuits. With the ignition key on, engine off, and the
+alternator connector disconnected, your SENSE wire should have battery
+voltage at the connector. Next, the GEN-COM wire should have zero volts, and
+the GEN-MON wire should have approximately 9 - 12 volts at the connector.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

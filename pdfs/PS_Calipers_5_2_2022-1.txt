@@ -1,0 +1,48 @@
+Application: All vehicles with Brake Calipers
+COMMON LUBRICATION POINTS
+Symptom:
+• Brake noise-squeak/squeal
+• Uneven brake pad wear
+Cause:
+• Bare metal to metal contact of components
+• Inability of the caliper to move freely
+(Floating-Sliding Calipers)
+• Inability of the disc pads to move freely in the caliper
+bracket or the anchor plate
+Solution:
+Proper lubrication allows the pads and caliper to move and
+function as designed. As an added benefit, it has proven to
+help reduce noise, a critical metric.
+
+Proper lubrication allows the pads and caliper to move and function as designed.
+LUBRICATION: CALIPER ASSEMBLY
+Always use Lubricant specifically designated for Disc Brake
+Systems AND NOT...
+Petroleum-based products - Petroleum products can cause
+rubber components (seals) to swell and fail, leading to potential
+brake failure and system contamination.
+Molybdenum Disulfide (Moly) - Moly products are excellent
+when applied to metal surfaces but do not work well with rubber.
+Depending upon the carrier (petroleum), they can react with
+rubber the same as petroleum products.
+
+Silicon - Silicon greases are generally suitable for non-metal
+components because they do not react with them (resist
+swelling). They are not the best choice for metal surfaces due to
+their lower pressure capabilities.
+Anti-seize Compounds - These can be excellent for preventing
+galling, seizing, and corrosion. They are widely used on fasteners
+to prevent a galvanic reaction. They are not designed to be a
+lubricant, especially a brake lubricant.
+Axle or Chassis Grease - Low-quality greases do not have a
+wide temperature range, cannot withstand washout, and lose
+some lubricating properties over time. High pressure and anticorrosive properties are also lacking.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

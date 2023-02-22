@@ -1,0 +1,56 @@
+CONOCIMIENTO
+DE UNSUPERIOR.
+NIVEL SUPERIOR.
+CONOCIMIENTO
+DE UN NIVEL
+
+¿Cuáles son los indicios de que debe verificar los circuitos
+eléctricos negativos o los circuitos de tierra?
+Síntomas:
+Condiciones de no giro, giro lento o débil, condiciones de
+carga baja o sin carga, condiciones de sobrecarga.
+Causa:
+Problemas con el lado de tierra o negativo del circuito eléctrico del sistema de arranque o carga.
+La solución:
+Verifique la condición de todos los circuitos de tierra de los
+vehículos.
+
+Es esencial verificar la condición de todos los circuitos de tierra de los vehículos
+¿Se ha hecho alguna de estas preguntas?
+• ¿Por qué no gira el motor de arranque?
+• ¿Por qué el giro del motor de arranque es lento o débil?
+• ¿Por qué no se carga la batería?
+• ¿Por qué está sobrecargada la batería?
+El desempeño y operación de cualquier circuito eléctrico y los componentes de ese
+circuito se verán muy afectados por problemas en el circuito de tierra.
+Por ejemplo, los problemas en el lado de tierra del sistema de arranque y carga en
+general provocarán condiciones de no giro, giro lento o débil, condiciones de carga
+baja o sin carga, o condiciones de sobrecarga, y pueden causar averías prematuras en
+motores de arranque y alternadores de repuesto.
+Por lo tanto, es esencial verificar la condición de todos los circuitos de tierra del
+vehículo siempre que haya problemas en el sistema de arranque o carga en un vehículo.
+Esto debe comenzar con una inspección visual detenida y completa del cable principal
+de tierra de la conexión negativa de la batería a la conexión final del cable en el motor
+
+o chasis según el vehículo. Luego se debe realizar una buena inspección visual sobre el
+accesorio o las tierras auxiliares. Estos cables tienen un diámetro menor y suelen ser
+más cortos, y van desde el terminal negativo de la batería al chasis del vehículo. Busque
+también sujetadores de tierra del motor al chasis e inspecciónelos con detenimiento.
+Intente prestar mucha atención a todas estas conexiones y cables de tierra en busca
+de conexiones sueltas, corrosión, óxido, cables rotos o agrietados, conectores dañados,
+evidencia de sobrecalentamiento o arcos, y conexiones que puedan haber quedado
+desconectadas por accidente o que hayan sido dañadas en reparaciones anteriores.
+Si no se detectan problemas visuales obvios, se debe realizar una prueba de caída de
+voltaje en estos circuitos de tierra en busca de resistencia excesiva en los circuitos. La
+ventaja de la prueba de caída de voltaje es que se realiza en un circuito vivo con flujo
+de corriente; es una “prueba de carga” del circuito. La prueba de caída de voltaje suele
+poder ubicar problemas que no se pueden detectar con facilidad en la inspección visual.
+
+SOPORTE TÉCNICO
+
+800-228-9672
+Los técnicos certificados ASE están disponibles 7 días a la semana.
+
+motorcarparts.com
+
+

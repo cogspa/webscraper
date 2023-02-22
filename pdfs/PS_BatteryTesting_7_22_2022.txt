@@ -1,0 +1,69 @@
+Battery Testing – 3 Steps
+The battery is the heart of a vehicle’s electrical system and
+is often overlooked in troubleshooting a charging or starting
+system problem. Many starting and charging system
+problems can be traced to a weak, undercharged, incorrect,
+or failed battery. An undercharged or defective battery can
+also cause premature starter or alternator failure as these
+components are forced to work harder under the strain of a
+weak or end-of-service life battery. Additionally, an incorrect
+battery that has been installed may not meet the vehicle
+manufacturer’s specifications for cold cranking amps, amp
+hour rating, or reserve capacity and may not be the correct
+type of battery for the vehicle, which can also lead to
+starting and charging system problems.
+
+3. Final Battery Test: A final determination of the battery’s
+overall health needs to be made. This is critical because
+it is possible and not uncommon for a battery to be fully
+charged but fail testing due to a weak or dead cell or
+because the battery has deteriorated. Final testing of
+the battery can be accomplished by using a dedicated
+battery tester to perform a load or conductance test of the
+battery.
+
+It is important to note that replacing the starter or
+alternator without properly inspecting and testing the
+battery may cause a misdiagnosis of a starting or charging
+system problem. This can lead to frustration because
+the underlying problem is missed, and the vehicle is not
+completely repaired.
+
+Proper testing of the battery will include these 3 steps:
+1.
+
+Visual inspection: Look for any physical damage to the
+battery, such as a cracked housing or evidence of leaking
+electrolyte. These conditions would require immediate
+replacement of the battery. It is also important to verify
+the battery is securely mounted, and the fastening
+hardware is in good condition. Check and confirm that all
+Battery connections are clean and tight. Part of the visual
+inspection also verifies that the battery is the correct
+battery for the vehicle. It must be the correct type of
+battery for the vehicle – a conventional flooded lead acid
+battery, an AGM battery, or an EFB, depending on the
+vehicle manufacturer’s specifications. It must have the
+correct capacity or rating for the vehicle.
+
+2. Measure the Battery State of Charge: With most
+automobiles and light duty trucks having sealed
+maintenance-free batteries now, a digital multimeter
+can quickly determine the battery state of charge. The
+battery state of charge should measure 75% or greater.
+If the battery state of charge is less than 75%, the
+battery must be charged first to at least 75% before
+moving on to the final battery test.
+
+TECHNICAL SUPPORT: 800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+Measure the Battery State of Charge
+with the Ignition and all accessories off.
+
+Battery State of Charge
+
+Note: These voltages are for a Battery at 70 degrees F. or above.
+AGM Batteries will measure slightly higher when fully charged.
+
+

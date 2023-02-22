@@ -1,0 +1,41 @@
+		Application: Vehicles equipped with vacuum booster 		
+				 assemblies.
+
+Symptom:
+Hard Brake Pedal, vehicle requires excessive pedal
+effort to stop. Failed Vacuum Brake Booster.
+
+Fluid Leaking From Master Cylinder
+
+Cause:
+A leaking Master Cylinder Rear Piston Seal can allow
+Brake Fluid to leak into the Brake Booster, causing it
+to fail.
+The Solution:
+Replace both master cylinder and vacuum booster unit.
+
+Damaged Booster
+
+A Master Cylinder Brake Fluid leak can cause Vacuum Brake Booster failure.
+Often, one part failure can be linked to another. In this case, the
+vacuum booster and master cylinder are connected. When your vacuum
+booster fails, it is a good idea to also check your master cylinder for
+signs of fluid leakage. If there is fluid leaking from the master cylinder,
+it can be pulled into the Vacuum Brake booster causing damage to the
+seals and diaphragm in the Brake Booster.
+If the Brake Booster has failed and there is evidence of brake
+fluid leaking from the back of the Master Cylinder both the Brake
+Booster and the Master Cylinder should be replaced to prevent leaking
+brake fluid from damaging the replacement Brake Booster.
+
+Note: When replacing brake components, always flush the entire brake
+system with the correct Brake Fluid for the vehicle from a sealed container.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

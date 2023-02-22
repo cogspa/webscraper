@@ -1,0 +1,53 @@
+Application: 1999 - 2000 Cadillac Escalade, 1995 - 1999 		
+Chevrolet Suburban, 1997 - 2000 Chevrolet Express
+Symptom:
+Difficult starting, unusual noises when starting, and possible
+damaged Starter Nose Cone.
+Cause:
+The hard start symptoms and starter failure may NOT be
+caused by the starter. A faulty crankshaft sensor could be
+the culprit.
+The Solution:
+The crankshaft sensor will need to be replaced, and the
+remaining components will need to be inspected for damage.
+
+Hard start symptoms and starter failure may NOT be caused by the starter.
+If you don’t hear the typical smooth clicks when starting a vehicle, but you hear a
+clanking noise instead, it must be the starter, right?! But what if it isn’t? Although it may
+seem like the starter, there could be another culprit. Hard start symptoms and starter
+failure may NOT be caused by the starter, but could actually be caused by the crankshaft
+position sensor.
+Symptoms of a faulty crankshaft sensor can include:
+• Backfire during cranking or start-up
+• “Kickback” during cranking or startup
+• “No” start
+• Slow or difficult start/crank
+• Grinding or unusual noises during cranking or start-up
+• Cracked or broken engine block at the starter boss
+• Broken starter drive housing “nose cone”
+• Broken starter ring gear on flywheel or flexplate
+If your vehicle is experiencing one or more of these symptoms, the crankshaft sensor
+may be at fault. A common failure mode of the crankshaft position sensor is allowing
+
+spark advance of up to 50 extra degrees during engine cranking only. This creates higher
+cylinder pressure and sometimes “kick back” which can damage the starter housing,
+flywheel/flexplate, and/or engine block (where the starter is mounted).
+The Fix: The first step is determining whether the crankshaft position sensor is the
+cause by running a vehicle diagnostic check. Inspect for a Power Train diagnostic
+trouble code (DTC) P0338. This DTC may not always illuminate the “Service Engine Soon
+Light.” If the code is stored, the crankshaft position sensor must be replaced, and the
+remaining components inspected for damage.
+Note: Attempting to replace the starter without properly diagnosing the issue
+may result in damage to the replacement starter.
+
+Check out the video for this issue by scanning the
+QR code or head to: https://youtu.be/iBbgO3Xikaw
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

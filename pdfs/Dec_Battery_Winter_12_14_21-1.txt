@@ -1,0 +1,45 @@
+Winter Preparedness
+Winter Maintenance and Testing for Batteries
+No one wants to get stranded with a dead battery at any time
+of the year, especially during winter with snow, ice, and freezing
+temperatures. So now that winter is here, this is a great time
+to perform some maintenance and testing on your vehicle’s
+battery.
+While batteries can fail at any time, cold temperatures can make
+the engine more difficult to start. The chemical reaction in a
+battery to produce current slows down in colder temperatures,
+making it more difficult for the battery to perform during cold
+weather.
+First, start with a visual inspection of the battery. Look for signs
+of apparent damage, such as a cracked battery case or housing
+or leaking electrolyte. Any of these conditions would indicate
+replacement of the battery is needed.
+Make sure the battery is securely mounted. If the battery is not
+secure, this can be a safety hazard and lead to internal battery
+damage from excessive road shock and vibration.
+The initial inspection should also include a visual inspection and
+check of the battery cables and connections for looseness and
+any signs of corrosion, oxidation, or damage, such as frayed
+wires or worn connectors and battery terminals.
+Next, we should test the battery state of charge with a DVOM or
+battery tester.
+A battery with a state of charge of less than 75% will need to be
+recharged first before any further testing is performed.
+Measure State of Charge with the Ignition and all electrical
+accessories off.
+Suppose the battery has a state of charge over 75%. In that
+case, we can proceed with final testing of the battery with a high
+current load type battery tester or an electronic conductance
+battery tester to determine the overall state of health of the
+battery and make a final determination as to whether it needs
+to be replaced.
+Some statistics indicate that 1 of 4 batteries in service needs to
+be replaced. As a general rule, any battery 5 or more years old
+is probably close to the end of its life.
+
+TECHNICAL SUPPORT: 800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+Battery State of Charge
+
+

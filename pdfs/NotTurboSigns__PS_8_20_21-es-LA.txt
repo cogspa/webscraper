@@ -1,0 +1,73 @@
+CONOCIMIENTO
+DE UNSUPERIOR.
+NIVEL SUPERIOR.
+CONOCIMIENTO
+DE UN NIVEL
+
+La falla P0299 podría no deberse al turbocompresor
+Síntomas:
+La baja presión causa una pérdida en el rendimiento del vehículo
+y que se encienda la MIL (lámpara indicadora de avería) naranja
+con el código de falla P0299 almacenado. (Nota: Este problema
+puede presentarse en muchos vehículos con turbocompresor.)
+
+Interenfriador
+
+Causa:
+El diagnóstico incorrecto de los síntomas de baja presión llevan
+a la devolución de turbocompresores que no tienen problemas y
+no necesitan repuesto.
+La solución:
+Antes de reemplazar el turbocompresor, asegúrese de realizar
+un diagnóstico completo e identificar la causa real del problema,
+ya que podría no ser el turbo mismo.
+
+Inspeccione con detenimiento todos los conductos para
+detectar fugas de aire, conexiones sueltas o daños que puedan
+afectar la presión y puedan causar el código de falla P0299.
+
+Muchos componentes y condiciones podrían causar un código P0299
+Uno de los motivos de un código de falla P0299 es que el turbo puede estar
+experimentando poca salida de presión. La ECU busca un rango específico de presión,
+y cuando la ECU detecta la presión baja, genera un código P0299. Este código
+encenderá la MIL (lámpara indicadora de avería) naranja en el panel de instrumentos
+y puede poner el vehículo en modo de emergencia.
+Desde el punto de vista del diagnóstico, muchas cosas pueden afectar el rendimiento
+del turbocompresor; sin embargo, el turbocompresor rara vez es la fuente del
+problema. Varios sensores, válvulas de control, vapores internos excesivos en el
+cárter, o incluso válvulas PCV averiadas pueden generar códigos por condiciones de
+presión baja o alta.
+P0299 rendimiento bajo (presión):
+El sistema de gestión del motor está calibrado al nivel de presión esperado en
+función de los requisitos específicos del motor. Un código P0299 indica que la presión
+es inferior a los requisitos esperados del motor. Muchos componentes y condiciones
+podrían generar un código P0299, como un filtro de aire obstruido, un convertidor
+catalítico bloqueado, fugas en el escape, fugas en los conductos/mangueras del
+sistema de entrada de aire, o sensores MAP, BARO o de presión averiados.
+
+¿Por qué? Si el motor no puede ingresar o expulsar suficiente aire, el turbo tendrá
+problemas para crear presión.
+En el lado del control, un solenoide puede averiarse y hacer que el actuador de
+descarga se mantenga abierto. Otro problema posible podría ser la falla del sistema
+PCV, que puede permitir una entrada excesiva de vapores del cárter y que ingrese
+aceite al motor y al turbocompresor, lo que provoca una emisión excesiva de humo a
+través del tubo de escape.
+Las fugas en las tuberías y el interenfriador pueden causar un código P0299 y suelen
+ocurrir en los acoples entre las tuberías de carga. Puede ser difícil encontrar fugas
+debido a la ubicación del interenfriador detrás de un parachoques.
+Consejos: Verifique la información de servicio del vehículo en busca de P0299 y
+posibles actualizaciones de programación de la ECU.
+Una máquina de humo puede ayudar a encontrar las fugas en la tubería y el interenfriador.
+Consulte y siga con detenimiento los procedimientos de diagnóstico del fabricante
+del vehículo para diagnosticar con precisión un código de falla P0229, ya que puede
+haber diferencias en los sistemas de turbocompresores y en los procedimientos de
+diagnóstico de diferentes vehículos.
+
+SOPORTE TÉCNICO
+
+800-228-9672
+Los técnicos certificados ASE están disponibles 7 días a la semana.
+
+motorcarparts.com
+
+

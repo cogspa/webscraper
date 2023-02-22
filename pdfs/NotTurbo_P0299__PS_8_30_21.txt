@@ -1,0 +1,64 @@
+Fault P0299 May Not Be Caused By The Turbocharger
+Symptoms:
+Under-boost causing a loss in vehicle performance and an
+illuminated orange MIL (Malfunction Indicator lamp) with the
+P0299 fault code stored. (Note: This issue can apply to many
+turbocharged vehicles.)
+
+Intercooler
+
+Cause:
+The misdiagnosis of under-boost symptoms leads to the
+return of turbochargers that have no issues and do not need
+replacing.
+The Solution:
+Before replacing the turbocharger, be sure to perform a
+complete diagnosis and identify the true cause of the issue,
+as it may not be the turbo itself.
+
+Carefully inspect all duct work for air leaks, loose
+connections, and damage which will affect boost
+and could cause the PO299 fault code.
+
+Many components and conditions could cause a P0299 Code
+One of the reasons for a P0299 fault code is the turbo may be experiencing
+low boost output. The ECU looks for a specific boost range, and when the
+ECU detects the low boost, it sets a P0299 code. This code will illuminate the
+orange MIL (Malfunction Indicator Lamp) in the instrument cluster and may
+put the vehicle in limp mode.
+From a diagnostic perspective, many things can affect the turbocharger’s
+performance: however, the turbocharger is rarely the source of the problem.
+Often various sensors, control valves, excessive internal crankcase vapors, or
+even faulty PCV valves can prompt codes for over and under boost conditions.
+P0299 Under Performance (Boost):
+The engine management system is calibrated to the expected level of
+boost pressure depending on specific engine requirements. A P0299 code
+indicates booster pressure is below the expected engine requirements. Many
+components and conditions could cause a PO299 code, such as a restricted air
+filter, blocked catalytic converter, exhaust leaks, leaks in the intake air system
+ducts/hoses, or faulty MAP, BARO, or Boost Pressure Sensors. Why? If the
+
+engine can’t ingest or expel enough air, the turbo will have problems creating
+boost.
+On the control side, a solenoid can fail and cause the actuator for the
+wastegate to stay open. Another possible problem could be a failure of the
+PCV system, which can allow excessive crankcase vapors and oil to enter the
+engine and turbocharger, leading to excessive smoke from the tailpipe.
+Leaks in the plumbing and intercooler can cause a P0299 code and often
+occur at the couplings between charge pipes. Finding the leaks can be difficult
+due to the packaging of the intercooler behind a bumper.
+Tips: Check vehicle service information for P0299 and possible ECU
+programming updates.
+A smoke machine can help find the Leaks in the plumbing and intercooler.
+Refer to and carefully follow the vehicle manufactures diagnostic procedures
+to accurately diagnose a PO299 fault code as there can be differences in
+turbocharged systems and diagnostic procedures on different vehicles.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

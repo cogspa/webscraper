@@ -1,0 +1,51 @@
+		Application: Many GM Vehicles Equipped with a 			
+				
+Hydro-Boost Brake System
+Symptom:
+Brake pedal moves or self-applies during steering fulllock turns or nearly full-lock turns
+Cause:
+The Hydro-Boost internal dump valve is not seated
+correctly due to contamination in the steering system
+Solution:
+Replace the Hydro-Boost unit
+
+Be Sure to Flush the Entire Hydraulic Power Steering System
+GM vehicles with a Hydro-Boost System may experience the
+brake pedal moving downward or self-applying during steering
+full-lock turns or near full lock turns. This can be caused by
+the Hydro-Boost internal dump valve not seating correctly
+due to contamination in the steering system. The Hydro-Boost
+unit is not tolerant to certain types of contaminants that
+may be present in the steering system. Therefore, when this
+condition occurs, the Hydro-Boost unit is recommended to
+be replaced following the manufacturer’s service procedures.
+IMPORTANT:
+Before replacing the Hydro-Boost unit, the entire hydraulic
+power steering system (including power steering pump, lines,
+cooler, and gearbox) must be flushed to prevent the condition
+from reoccurring. Follow the manufacturer’s service procedures.
+
+If the vehicle comes back exhibiting the same condition within
+20k miles of the previous repair, it is recommended that the
+entire hydraulic power steering system (including power
+steering pump, lines, cooler, and gearbox) be replaced.
+Notes:
+• Replacing the Hydro-Boost unit alone may not be enough to cure this
+braking condition.
+• When flushing the power steering system, use only the correct
+power steering fluid for the vehicle. Do not use aftermarket
+power steering “Flushes.” Failure to follow this guideline could
+result in erratic operation/damage to the power steering system.
+For more information, please reference the GM Bulletin.
+No. PIT3665J Published date: 06/26/2020
+Click the link below to view the bulletin:
+https://static.nhtsa.gov/odi/tsbs/2020/MC-10178353-9999.pdf
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

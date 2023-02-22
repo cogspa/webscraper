@@ -1,0 +1,38 @@
+		Application:
+2015 Chrysler 200 with 3.6L V6 engine and
+2014 - 2015 Jeep Cherokee with 3.2L V6 engine
+Tensioner
+
+Symptom:
+Vehicle making Noisy or Squealing sounds.
+Cause:
+Could be due to Possible Alternator, Belt or Tensioner
+failure.
+The Solution:
+Replacement of the Tensioner and Belt.
+
+Belt
+
+Noises during startup in cold weather could be as simple as a belt or tensioner.
+The 2015 Chrysler 200 with a 3.6L V6 and the 2014 - 2015
+Jeep Cherokee with a 3.2L V6 may experience a 20-90 second,
+high frequency “squealing” noise on startup. These noise events
+occur on cold starts where ambient temperatures are relatively
+low (~32F). The belt tensioner on these vehicles is a common
+failure point and can cause noise events under certain conditions.
+Replacement of the belt tensioner (OE Part Number 04627533AC)
+and drive belt could eliminate the problem. Component inspection
+and diagnosis will determine the actual source of the problem.
+
+Please reference Chrysler Service Bulletin 07-001-16 for
+more information.
+Click Here to view the bulletin.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

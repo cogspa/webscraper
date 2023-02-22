@@ -1,0 +1,57 @@
+Aplicación: Vehículos con alternadores controlados
+por LIN
+Síntoma:
+Parece como si el alternador se estuviera cargando a un nivel de voltaje más
+bajo.
+La solución:
+Pruebe correctamente el sistema de carga del alternador LIN del vehículo para
+identificar cualquier problema que pueda necesitar mantenimiento o cambio.
+
+Algunos vehículos de último modelo utilizan un alternador controlado por LIN.
+LIN son las siglas en inglés de Red de Interconexión Local; se
+refiere a un tipo de red de comunicaciones donde la comunicación
+bidireccional se llevará a cabo a través de un solo cable entre un
+módulo o computadora y el alternador. Esto permitirá que el módulo o
+la computadora controlen el alternador y la estrategia del sistema de
+carga.
+
+Hay dos pasos cruciales a seguir al probar el sistema de carga en estos
+vehículos.
+
+Una parte de la estrategia del sistema de carga en varios vehículos
+modernos es reducir o incluso apagar la salida del alternador cuando
+no se necesita. Por ejemplo, si la batería está casi completamente
+cargada y hay una carga eléctrica muy baja (las luces, el control
+de clima, los limpiaparabrisas, etc. están apagados), se ordenará al
+alternador que se cargue a un nivel muy bajo.
+
+2)
+Aumente las RPM del motor a aprox. 1,500 a 2,000, lo que
+obligará al alternador a cargarse a una velocidad más alta. Si aún
+parece que el alternador no se está cargando, se debe conectar una
+herramienta de escaneo al vehículo antes de cambiar el alternador.
+Cualquier código de falla relacionado con el sistema de carga o fallas
+de error de comunicación de LIN con el alternador debe abordarse
+primero.
+
+1)
+Agregue algo de carga eléctrica simplemente encendiendo
+los faros y las luces de carretera, colocando el ventilador del sistema
+de control de clima en alto y encendiendo el desempañador trasero.
+
+Cuando pruebe el sistema de carga en vehículos con alternadores
+controlados por LIN, si la batería está completamente cargada y en
+condiciones de carga eléctrica baja o nula, puede parecer que el
+alternador no se está cargando o se está cargando a una velocidad
+muy baja debido a esta estrategia que se ordenó.
+
+APOYO TÉCNICO
+
+800-228-9672
+
+Contamos con técnicos certificados en ASE disponibles los 7 días
+de la semana.
+
+motorcarparts.com
+
+

@@ -1,0 +1,51 @@
+		Application: Vehicles with LIN-Controlled Alternators
+Symptom:
+Appears as though the Alternator is charging at a
+lower voltage level.
+The Solution:
+Correctly test the vehicles LIN alternator charging
+system to identify any issues that may require service
+or replacement.
+
+Some late-model vehicles use a LIN-controlled alternator.
+LIN is an acronym for Local Interconnect Network; this refers to a type
+of communications network where bi-directional communication will
+take place through a single wire between a “Module or Computer” and
+the alternator. This will allow the module or computer to control the
+alternator and the charging system strategy.
+A part of the charging system strategy on many modern vehicles is to
+reduce or even turn off the alternator output when it is not needed. For
+example, if the battery is near a full state of charge and there is a very
+low electrical load (lights, climate control, windshield wipers, etc., are
+off), the alternator will be commanded to charge at a very low level.
+When testing the charging system on vehicles with LIN-controlled
+alternators, if the battery is fully charged and under low or no
+electrical load conditions, the alternator may appear to not be
+charging or charging at a very low rate due to this commanded
+strategy.
+
+There are two critical steps to follow when testing the charging system
+on these vehicles.
+1)
+
+Add some electrical load by simply turning on the headlights
+and high beams, placing the climate control system blower on
+high, and turning on the rear defroster.
+
+2)
+
+Raise the engine RPM to Approx. 1,500 – 2,000, which will force
+the alternator to charge at a higher rate. If the alternator
+still appears not to be charging, a scan tool should be 		
+connected to the vehicle before replacing the alternator. Any
+charging system-related fault codes or LIN communication
+error faults with the alternator should be addressed first.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

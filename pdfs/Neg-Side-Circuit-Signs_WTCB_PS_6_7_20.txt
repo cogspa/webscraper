@@ -1,0 +1,57 @@
+What are the signs that you need to check your negative
+side electrical circuits, or ground circuits?
+Symptoms:
+No – crank conditions, slow or sluggish cranking, no – charge
+or low charge conditions, overcharge conditions.
+Cause:
+Problems with the ground, or the negative side of the starting or charging system electrical circuit.
+The Solution:
+Verify the condition of all of the vehicle ground circuits.
+
+It is critical to verify the condition
+of all of the vehicle ground circuits
+Have you had any of these questions?
+• Why wont my starter crank?
+• Why is my starter cranking slow or sluggish?
+• Why won’t my battery charge?
+• Why is my battery overcharged?
+The Real Estate professionals often like to say that “The 3 most important things in Real
+Estate are Location, Location, and Location.”
+Well when it comes to vehicle starting and charging system problems as well as other
+vehicle electrical system problems it could be said that the 3 most important things are
+Grounds, Grounds, and Grounds. The ground or negative side of any electrical circuit is
+no less important and just as critical as the positive side of the circuit. The performance
+and operation of any electrical circuit and the components within that circuit will be
+greatly affected by problems on the ground portion of that circuit.
+For example problems on the ground side of the starting and charging system will often
+result in no – crank conditions, slow or sluggish cranking, no – charge or low charge
+conditions, overcharge conditions, and can cause premature failure of replacement
+Starters and Alternators.
+
+Therefore it is critical to verify the condition of all of the vehicle ground circuits
+whenever there are starting or charging system problems on a vehicle.
+This should start with a careful and complete visual inspection of the main ground cable
+from the battery negative connection to the cable terminating connection at the engine
+or chassis depending on the vehicle. Next a good visual inspection should be performed
+on the accessory or auxiliary grounds. These are the smaller diameter and typically
+shorter wires from the battery negative terminal to the vehicle body or chassis. Also
+look for any ground straps from the engine to the body or engine to the chassis and
+carefully inspect these. Try to get your eyes and hands on all of these various ground
+connections and wires to inspect for loose connections, corrosion, oxidation and rust,
+frayed or broken wires, damaged connectors, evidence of overheating or arcing, and
+connections that may have been inadvertently left off or damaged during previous
+repairs.
+If there are no obvious visual problems detected a voltage drop test should be performed
+on these ground circuits to locate excessive resistance in the circuits. The advantage of
+the voltage drop test is that the test is performed on a live circuit with current flowing;
+it is a “load test” of the circuit. The voltage drop test can often locate problems which
+cannot be easily seen during the visual inspection.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

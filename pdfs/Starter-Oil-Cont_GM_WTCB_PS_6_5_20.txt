@@ -1,0 +1,43 @@
+Application: 1990-2008 GM Vehicles
+with 4 cylinder and V6 engines
+Symptom:
+Repeat starter failure, no start condition, no crank condition,
+or intermittent no start condition.
+Oil Covered Starter
+
+Cause:
+Oil, or other fluid, leaking from the engine.
+The Solution:
+Repair the leaks causing oil, or other fluids to drip onto
+the starter.
+Replacement Starter
+
+Failure to repair these fluid leaks will cause premature
+failure of the replacement starter
+If your 1990-2008 GM vehicle has a 4 cylinder, or V6 engine and is suffering from one or
+more of the symptoms listed above, it may be caused by oil or other fluids leaking from
+the engine. After removing the starter from the vehicle, carefully inspect for evidence
+of oil, or other fluids on the starter which will indicate engine leaks. Failure to repair
+these fluid leaks will cause contamination of the starter internal components, causing
+premature failure of the replacement starter.
+When replacing the starter don’t just inspect the starter, carefully inspect the mounting
+surfaces on the engine and transmission for signs of fluids, rust, or corrosion. This must
+be cleaned before installing the replacement starter to insure good ground continuity.
+Finally, check all the fuses in this application. The “S” terminal wire is fused and if it gets
+shorted out, you need to back track this wire into the fuse block to check that specific
+fuse. Don’t forget to also check the battery to make sure it is fully charged and has 12.60
+volt or higher state of charge.
+
+Contaminated Starter on a GM Vehicle
+
+Check out the video for this issue by scanning the
+QR code or head to: https://youtu.be/j7pf83p8b24
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+
+

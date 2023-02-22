@@ -1,0 +1,41 @@
+		Application: 2013 - 2016 Honda Accord, Civic, and CRV 		
+2.4L Vehicles.
+Symptom:
+A faulty battery management sensor could lead to electrical
+shorts, or thermal events.
+
+Battery Management Sensor
+
+Cause:
+Could be due to an improperly manufactured battery sensors.
+The Solution:
+Replacement of the faulty battery management sensor.
+
+Vehicles that received the temporary repair are being recalled again,
+to receive a replacement battery sensor.
+Improperly manufactured battery sensors could allow conductive moisture to
+enter into the battery management sensor (i.e., road salts, etc.). This moisture
+could result in an electrical short and under-hood fire.
+Previously affected vehicles were recalled through a Safety Recall for a
+temporary repair. Vehicles that received the temporary repair are being
+recalled again, to receive a replacement battery sensor.
+
+Some alternator part numbers may be improperly diagnosed as defective and
+then returned for replacement, or in some cases, claims for vehicle thermal
+event damage may be filed, when in fact, the OE battery management sensor
+is faulty, and the root cause for the charging system failure.
+Please reference Honda Tech Bulletin TSB 17-069 for more information
+
+All Honda customers, especially used car or private party customers, may
+not have received a notice of the Honda recall for the battery management
+sensor, and this may adversely affect aftermarket alternator warranty returns.
+
+TECHNICAL SUPPORT
+
+800-228-9672
+ASE Certified Technicians are Standing by 7 days a week.
+
+motorcarparts.com
+For this and other Part Smart tech articles, Click Here.
+
+

@@ -1,0 +1,48 @@
+Preparación para el invierno
+Mantenimiento y pruebas de baterías para el invierno
+Nadie quiere quedarse varado con una batería agotada en ninguna
+época del año, especialmente durante el invierno con nieve, hielo y
+temperaturas bajo cero. Por lo tanto, la llegada del invierno es un
+buen momento para efectuar el mantenimiento y las pruebas a la
+batería de su vehículo.
+Aunque las baterías pueden fallar en cualquier momento, las bajas
+temperaturas pueden dificultar el arranque del motor. La reacción
+química en una batería para producir corriente se hace más lenta
+en temperaturas más frías, lo que dificulta el funcionamiento de la
+batería en climas fríos.
+Primero, comience con una revisión visual de la batería. Busque
+signos de daños visibles, como una carcasa o caja de batería
+agrietada o fugas de electrolito. Cualquiera de estas condiciones
+indicaría que es necesario cambiar la batería.
+Asegúrese de que la batería esté bien montada. Si la batería no está
+bien montada , esto puede ser un peligro para la seguridad y se
+pueden provocar daños internos en la batería debido a vibraciones y
+golpes excesivos en la carretera.
+La inspección inicial también debe incluir una revisión visual y una
+verificación de los cables y conexiones de la batería para determinar
+si están flojos y hay signos de corrosión, oxidación o daño, como
+cables deshilachados o conectores y terminales de la batería
+desgastados.
+A continuación, debemos probar el estado de carga de la batería con
+un DVOM (Medidor digital de voltios-ohmios) o probador de batería.
+Una batería con un estado de carga inferior al 75 % deberá
+recargarse primero antes de realizar más pruebas.
+Mida el estado de carga con la ignición y todos los accesorios
+eléctricos apagados.
+Supongamos que la batería tiene un estado de carga superior al
+75 %. En ese caso, podemos continuar con la prueba final de la
+batería con un probador de batería para carga de alta corriente o
+un medidor de conductividad eléctrica de baterías para determinar
+el estado general de salud de la batería y decidir si es necesario
+cambiarla.
+Algunas estadísticas indican que 1 de cada 4 baterías en servicio
+debe reemplazarse. Como regla general, cualquier batería que tenga
+5 años o más probablemente esté cerca del final de su vida útil.
+
+APOYO TÉCNICO: 800-228-9672
+Contamos con técnicos certificados en ASE disponibles
+los 7 días de la semana.
+
+Estado de carga de la batería
+
+
