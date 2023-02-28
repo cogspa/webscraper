@@ -1,7 +1,7 @@
 import os
 
 # set the path to the folder
-folder_path = "C:\Users\jmica\OneDrive\Desktop\webscraper\pdfthumbs"
+folder_path = "C:/Users/jmica/OneDrive/Desktop/webscraper/pdfthumbs"
 
 # get the list of files in the folder
 files = os.listdir(folder_path)
